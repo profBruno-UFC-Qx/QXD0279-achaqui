@@ -1,4 +1,4 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: ACHAQUI
 
 Plataforma web que conecta moradores de Quixadá a profissionais autônomos (pedreiros, eletricistas, montadores de móveis, técnicos de informática, entre outros). Os profissionais divulgam seus serviços, e os clientes encontram, solicitam orçamento e avaliam quem prestou o trabalho.
 
